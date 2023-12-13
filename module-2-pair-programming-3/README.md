@@ -1,3 +1,5 @@
+Merit America Cohort Partner was ThaLiscia Rankins for this project, where we worked in a Driver/Navigator Pair Programming Style, live coding exclusively.
+
 # Week 7 Pair Exercises: Cat Cards
 
 ## Context
